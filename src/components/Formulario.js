@@ -34,6 +34,7 @@ export default class Formulario extends Component {
                                 placeholder="url image"
                                 name="imagen"
                                 required
+                            
                                />
 
                             <input
